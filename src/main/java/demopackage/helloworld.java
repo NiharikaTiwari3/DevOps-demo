@@ -6,5 +6,10 @@ public class helloworld {
 		System.out.println("Hello World!");
 
 	}
+	
+	public void m1() {
+		System.out.println("This is method 1");
+		
+	}
 
 }
